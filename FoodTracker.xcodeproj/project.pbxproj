@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3AC819FD1DA20836009EF43E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AC819FB1DA20836009EF43E /* Main.storyboard */; };
+		3AC819FF1DA20A33009EF43E /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AC819FE1DA20A33009EF43E /* RatingControl.swift */; };
 		3AD678481DA1D716006A1278 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD678471DA1D716006A1278 /* AppDelegate.swift */; };
 		3AD6784A1DA1D716006A1278 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AD678491DA1D716006A1278 /* ViewController.swift */; };
 		3AD6784F1DA1D716006A1278 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3AD6784E1DA1D716006A1278 /* Assets.xcassets */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		3AC819FC1DA20836009EF43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../../../Downloads/Start-Dev-iOS-Apps-04/FoodTracker - Work with View Controllers/FoodTracker/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
+		3AC819FE1DA20A33009EF43E /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		3AD678441DA1D716006A1278 /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AD678471DA1D716006A1278 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AD678491DA1D716006A1278 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				3AD678471DA1D716006A1278 /* AppDelegate.swift */,
 				3AD678491DA1D716006A1278 /* ViewController.swift */,
 				3AC819FB1DA20836009EF43E /* Main.storyboard */,
+				3AC819FE1DA20A33009EF43E /* RatingControl.swift */,
 				3AD6784E1DA1D716006A1278 /* Assets.xcassets */,
 				3AD678501DA1D716006A1278 /* LaunchScreen.storyboard */,
 				3AD678531DA1D716006A1278 /* Info.plist */,
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3AD6784A1DA1D716006A1278 /* ViewController.swift in Sources */,
+				3AC819FF1DA20A33009EF43E /* RatingControl.swift in Sources */,
 				3AD678481DA1D716006A1278 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
